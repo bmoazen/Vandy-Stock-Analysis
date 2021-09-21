@@ -1,6 +1,4 @@
-# Vandy-Stock-Analysis
-# Kickstarting with Excel
-
+# VBA of Wall Street
 ## Overview of Project
 The purpose of this analysis was to learn the basics of VBA (Visual Basic for Applications) and apply it to an investing problem which looked at stock prices for several companies in a two-year span (2017 and 2018).  In the given scenario, Steve is looking into his parent's investment into DAQO New Energy Corporation, a green energy company.  He decides to look not only into DAQO's stock (ticker "DAQ") but other green enrgy companies as well.  The data was initially given in daily ticker prices for each company and using VBA we were able to calculate total volume by year, as well as starting and ending prices for each year for each ticker.  This allowed us to see the total yearly volume for each company, as well as the yearly growth for each stock.
 
